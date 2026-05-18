@@ -92,5 +92,5 @@ This GitHub should provide a reliable signal.
 
 ## 📫 Contact
 
-- LinkedIn: :contentReference[oaicite:0]{index=0}
-- GitHub: :contentReference[oaicite:1]{index=1}
+- LinkedIn: [Prasanna B](https://www.linkedin.com/in/prasanna-b-503a85341/)
+- GitHub: [Prasanna-Balakrishnan](https://github.com/Prasanna-Balakrishnan)
