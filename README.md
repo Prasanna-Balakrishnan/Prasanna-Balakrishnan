@@ -87,3 +87,10 @@ If you’re looking for someone who:
 - Writes code that is explainable, not accidental  
 
 This GitHub should provide a reliable signal.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: :contentReference[oaicite:0]{index=0}
+- GitHub: :contentReference[oaicite:1]{index=1}
